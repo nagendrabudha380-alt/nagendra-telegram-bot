@@ -6,9 +6,9 @@ import random
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ChatMember
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, ConversationHandler, CallbackQueryHandler
 
-TOKEN = "8626337033:AAHGy-nQTnRHr2bfq94p4PsYaJxm4OroWqY"
-CHANNEL_ID = -1003839577693
-CHANNEL_LINK = "https://t.me/nagendraowner2"
+TOKEN = "8720553369:AAHjHJPaXscx_AatAWB3eDr3RBzNvFBNBRk"
+CHANNEL_ID = -1004483412145
+CHANNEL_LINK = "https://t.me/faaaaaahrandi"
 
 fake = Faker()
 USERNAME = 1
