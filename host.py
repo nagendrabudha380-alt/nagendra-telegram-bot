@@ -53,7 +53,7 @@ def keep_alive():
 # --- Configuration FROM .env FILE ---
 # --- CONFIGURATION (NORMAL / NO ENV) ---
 
-TOKEN = "8515546271:AAGzHIAIjLo0uHBHz6872YQGzFX1prFPUMg" #BOT TOKEN
+TOKEN = "8981563297:AAGfWlqaSORx144UwuxObKzU2gCoMC09kWM" #BOT TOKEN
 OWNER_ID = 8388115033                            # OWNER USER ID
 ADMIN_ID = 8388115033                              # ADMIN USER ID
 YOUR_USERNAME = "NagendraOwnerBack"                                # OWNER USERNAME (without @)
