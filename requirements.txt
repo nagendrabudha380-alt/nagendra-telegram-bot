@@ -4,3 +4,4 @@ psutil
 requests
 python-dotenv
 qrcode[pil]
+aiosqlite
